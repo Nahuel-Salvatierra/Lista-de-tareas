@@ -1,0 +1,25 @@
+Alineación horizontal
+justify-content-start: alinea los elementos en el extremo izquierdo del contenedor.
+justify-content-end: alinea los elementos en el extremo derecho del contenedor.
+justify-content-center: centra los elementos horizontalmente dentro del contenedor.
+justify-content-between: distribuye los elementos equitativamente a lo largo del eje horizontal, de modo que el espacio entre ellos sea igual.
+justify-content-around: distribuye los elementos equitativamente a lo largo del eje horizontal, de modo que haya espacio igual entre ellos y alrededor de ellos.
+Alineación vertical
+align-items-start: alinea los elementos en la parte superior del contenedor.
+align-items-end: alinea los elementos en la parte inferior del contenedor.
+align-items-center: centra los elementos verticalmente dentro del contenedor.
+align-items-baseline: alinea los elementos en función de su línea base.
+align-items-stretch: estira los elementos para que tengan la misma altura que el contenedor.
+Alineación de elementos
+text-left: alinea el texto a la izquierda.
+text-center: centra el texto horizontalmente.
+text-right: alinea el texto a la derecha.
+text-justify: justifica el texto en ambos lados, creando espacios adicionales entre las palabras según sea necesario para que el texto llene completamente el ancho del contenedor.
+Flexbox
+Bootstrap también utiliza flexbox para la mayoría de sus sistemas de cuadrícula y alineación. Aquí hay algunas de las principales clases de flexbox utilizadas en Bootstrap:
+
+d-flex: establece el contenedor en display: flex.
+flex-row: establece la dirección de los elementos dentro del contenedor como horizontal.
+flex-column: establece la dirección de los elementos dentro del contenedor como vertical.
+align-items-*: alinea los elementos verticalmente dentro del contenedor.
+justify-content-*: alinea los elementos horizontalmente dentro del contenedor.
